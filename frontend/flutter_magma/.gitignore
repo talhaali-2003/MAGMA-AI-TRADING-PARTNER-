@@ -1,0 +1,5 @@
+# Ignore .env files
+assets/.env
+.env
+/build
+build

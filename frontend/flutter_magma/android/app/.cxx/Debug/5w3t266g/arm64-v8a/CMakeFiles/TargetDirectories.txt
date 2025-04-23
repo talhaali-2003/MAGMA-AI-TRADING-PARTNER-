@@ -1,0 +1,2 @@
+C:/Users/Yousef/Documents/GitHub/MAGMA-CP2025/frontend/flutter_magma/android/app/.cxx/Debug/5w3t266g/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Yousef/Documents/GitHub/MAGMA-CP2025/frontend/flutter_magma/android/app/.cxx/Debug/5w3t266g/arm64-v8a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+{
+    "cmake.sourceDirectory": "C:/Users/renee/OneDrive/Desktop/Capstone/project files/MAGMA-CP2025/frontend/flutter_magma/linux",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "magmadb",
+            "connectString": "postgresql://root:qxoUmbZYVKP1zSbN52LvCXJbi8Vq6Td7@dpg-cusvjg8gph6c73attk6g-a.oregon-postgres.render.com:5432/magmadb?ssl=true",
+            "connectionTimeout": 30
+        }
+    ]
+}
