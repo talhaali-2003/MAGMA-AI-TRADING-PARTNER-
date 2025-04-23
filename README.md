@@ -229,7 +229,7 @@ Any emails sent by the account for user authentication or user feedback messages
 ---
 
 ## **Extra Resources**
-
+- [Video Overview](https://youtu.be/wyElRrPJD4k)
 - [Run a Flutter App in VS Code](https://www.youtube.com/watch?v=EhGW4UYpKSE)  
 - [How to Run a Virtual Environment](https://www.youtube.com/watch?v=Y21OR1OPC9A&t=47s)  
 - [How to Run Flask in Virtual Environment](https://www.youtube.com/watch?v=BPC3OH2IJbc)
